@@ -1,0 +1,1 @@
+package bd.edu.seu.reservationservice.exception;public class ResourceNotExistsException extends Exception {    public ResourceNotExistsException(String s) {        super(s);    }}
